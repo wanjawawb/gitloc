@@ -1,5 +1,5 @@
 /*
- * Programming Quiz: Bank Accounts 1 (7-3)
+ * Programming Quiz: Bank Accounts 1 (7-3) by WanjawaWB
  */
 
 var savingsAccount = {
